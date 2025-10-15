@@ -1,4 +1,4 @@
-<h1 align="center">🧠📸 Product Image Intelligence (Multi-language)</h1>
+<h1 align="center"> Product Image Intelligence (Multi-language)</h1>
 <blockquote align="center"><em>"AI that sees, understands, and speaks your product—instantly."</em></blockquote>
 
 
