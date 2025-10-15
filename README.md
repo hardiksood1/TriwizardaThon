@@ -28,12 +28,12 @@
 
 Welcome to a powerful AI tool that analyzes product images and automatically generates:
 
-- 🏷️ Brand  
-- 📝 Title & Description  
-- ✨ Key Features  
-- 💲 Price Comparisons  
-- 🔄 Similar Product Suggestions  
-- 🌐 Translations in multiple languages
+-  Brand  
+-  Title & Description  
+-  Key Features  
+-  Price Comparisons  
+-  Similar Product Suggestions  
+-  Translations in multiple languages
 
 ---
 ## 🎥 Demo Preview
