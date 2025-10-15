@@ -36,7 +36,7 @@ Welcome to a powerful AI tool that analyzes product images and automatically gen
 -  Translations in multiple languages
 
 ---
-## 🎥 Demo Preview
+##  Demo Preview
 
 See how our AI extracts product info, translates it, and compares prices — all from a single image!
 
@@ -47,7 +47,7 @@ See how our AI extracts product info, translates it, and compares prices — all
 ---
 
 
-## 🔍 What’s Inside
+##  What’s Inside
 
 This application converts any product image into a detailed, multilingual product card—perfect for e-commerce, cataloging, and digital retail platforms.
 
